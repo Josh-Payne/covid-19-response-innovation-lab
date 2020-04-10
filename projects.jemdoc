@@ -1,0 +1,253 @@
+# jemdoc: menu{menu.jemdoc}{projects.html}
+
+= COVID-19 Response Innovation Lab
+
+== Medical Questions
+*Channel Moderator:* [joshp007@stanford.edu Josh Payne]
+
+=== Virufy: Low-cost early detection of COVID-19
+
+*Team Lead:* Amil Khanzada
+
+*Team Contact:* [amilkh@stanford.edu amilkh@stanford.edu]
+
+*Current Team:* Chau Wo, Jeff Sheng, Vivek Vallurupali, Nikki Perez, Lisa Chionis
+
+*Description:* Check out the [http://virufy.org/ website]. Via smartphone with deep learning, cough\/respiratory analysis.
+
+*Looking for:* AI experts with experience in analyzing image\/sound processing for medical data (e.g. coughs, blood pressure), hospitals/COVID-19 tested patients willing to share cough data with IRB approval, help to write grants.
+
+=== mPCR (mobile PCR) Viral Diagnostic Device
+
+*Team Lead:* Dr. Demir Akin
+
+*Team Contact:* [demir.akin@stanford.edu demir.akin@stanford.edu]
+
+*Current Team:* Garand Tyson, Frank Zheng, Valeria Wu
+
+*Description:* Extremely affordable, scalable testing (DNA\/RNA sequencing).
+
+We are leading an international innovative research project with the vision to build a smartphone app that can be used by anyone in the world (at home or in the hospital). It will use deep learning to determine whether they need to get further testing for COVID-19 based on audio/visual signals (e.g. cough sound, lung noise, video of face) \+ textual data (questionnaires). Did you know that videos of the face can be used to determine heart rate, blood oxygen level, respiratory rate, and stress levels?
+
+More details \/ proposal [https://drive.google.com/drive/u/4/folders/1dwrl97KXw2WPabVcelha4dTgYF6y2t0p here].
+
+We have Pakistan universities\/hospital\/government on board to gather data at hospitals shortly.
+Also our group has linkage to Japanese government and the Prime Minister level in the UK\/Netherlands.
+
+We don't know if this ground-breaking research will succeed and don't know of anybody else working on it. If it works, we hope to share the system freely worldwide to help end this pandemic! Perhaps the app usage requirement is a promise to never again be hostile to another nation.
+
+*Looking for:* We need to replicate the existing devices or finalize the manufacturing ot the version 2 device. For this purpose we need tema members with experise in the following areas. People with: 
+
+- EE background: hands-on PCB design, fabrication and circuit design experience, people who know and can directly communicate with PCB fabrication facilities vendors that have pick-and-place capability AND can offer their service free or donate\/discount their servies for a non-profit cause
+- analog an digital signal processing experience, especially with exp with microcontrollers, Arduino, or similar microcontrollers
+- 3D printing experince to fabricate a case for the device so it can be safely distributed to the public
+- Android\/iOS App\/GUI developers
+- business backgrounds, people who have previously been involved in start up creation, have connections to or willing to connect with angel investors, ventures/foundations etc., people with social media, and outreach experience
+- people with RT-PCR and molecular biology expertise to run the inital validation tests with simulants (not clincal samples)
+- people with BSL-3 lab experince and access to such contolled regulation labs for perfoming the validation testing with clinical samples (this need will come later on but forming a team from get-go is critical for rapid respnse to this pandemic) 
+
+
+=== Nextpandemic.org
+
+*Team Lead:* Binbin Chen
+
+*Team Contact:* [bchen45@stanford.edu bchen45@stanford.edu]
+
+*Current Team:* Ethan Fast, Peter Rozanski
+
+*Description:* Check out the [http://nextpandemic.org/ website]. Combining at-home testing kits with centralized sequencing and analysis to be able to test/react better to future pandemics.
+
+=== Intranasal personalized antibody spray (CRISPR-Cas13 targeting of SARS-COV-2)
+
+*Team Lead:* Jordan Strasser
+
+*Team Contact:* [j217@stanford.edu j217@stanford.edu]
+
+*Current Team:* Mandeep Singh
+
+*Description:* Taking advantage of COVID-19's long incubation period. Design CRISPR-Cas13 system targetted to key genetic sequences of S-protein, Orf1ab and RDRP. Deliver system in polystyrene nanoparticle vessel. Have asymptomatic people do intranasal sprays, to essentially nip the virus in the bud. Whether someone actually has the virus or not shouldn't matter, as the target sequences are known through well-established PCR protocols to be virus-specific. 
+
+=== Make Inc.
+
+*Team Lead:* Mateo Creamer and Nishat Rustagi
+
+*Team Contact:* [mcreamer@stanford.edu mcreamer@stanford.edu]
+
+*Current Team:* Nishat Rustagi, Vivek Vallurupalli
+
+*Description:* Check out the [http://makerstage.com/ website]. Digital manufacturing venture building a workflow platform for manufacturing, sitting on top of a network of industrial 3D printers and CNC machines across America. We are printing PPE and other critical supplies for COVID-19 to help meet demands and are currently able to handle 25k\+ units per week.
+
+*Looking for:* Open to anyone interested in working full-time \/ part-time on this project. Email or slack me for more information!
+
+
+== Information and Communication
+*Channel Moderator:* [oestea@stanford.edu Anica Oesterle]
+
+=== Hilferegister.de
+
+*Team Lead:* Thilo Braun
+
+*Team Contact:* [tmbraun@stanford.edu tmbraun@stanford.edu]
+
+*Current Team:* Kevin Fauzie, Joy Shen
+
+*Description:* Check out the [http://hilferegister.de/ website]. One-stop, user-friendly platform on mutual aid initiatives (Germany, to scale across nations).
+
+*Looking for:* Building on idea from Andrew below, website re-programmed from ground-up specific to this use case. Need:
+- Web-Developer (Python, Django, HTML)
+- Marketing/Social Media
+- Teams in different countries with knowledge of specific needs & outreach to local initiatives
+- Feedback, Ideas & useful contacts are always appreciated! :) 
+
+See Slack Channel: #helpregistry
+
+
+=== COVID NOW
+
+*Team Lead:* Nick Steele
+
+*Team Contact:* [nsteele@stanford.edu nsteele@stanford.edu]
+
+*Current Team:* Edwin Qian, Prithvi Krishnarao, Aydan Pirani, Dillon Rosenblatt
+
+*Description:* Machine intelligence to summarize breaking news and data.
+
+*Looking for:* Anyone willing to help!, AI\/NLP engineers, web developers
+
+
+=== Kitajagakita.com
+
+*Team Lead:* Andrew Loh
+
+*Team Contact:* [andrewlza@gmail.com andrewlza@gmail.com]
+
+*Current Team:* Ryanne Ramadan
+
+*Description:* Check out the [http://kitajagakita.com/ website]. One-stop, user-friendly platform for mutual aid initiatives (Malaysia).
+
+*Looking for:* How we can help:
+- Our platform is replicable. if you want to launch a similar platform in your community \/ country, email! 
+- We can provide "plug-and-play" website templates so you can hit the ground running 
+
+What we need:
+- Please give us feedback on how to improve \/ scale up \/ make the user experience better 
+- Media, publicity, funding, outreach
+
+
+=== Close
+
+*Team Lead:* Sam Gorman
+
+*Team Contact:* [sgorman@stanford.edu sgorman@stanford.edu]
+
+*Current Team:* Sam Gorman (product), Kanyes Thaker (serverside), Brian Zeng (fullstack), Melisa Seah (marketing)
+
+*Description:* Check out the [https://www.closecrisis.com/ website]. Public health tool for California residents with clear daily COVID-19 statistics and relevant local information.
+
+*Looking for:* People who are \~ creative \~: looking to collab with people who illustrate, create media, design, write— basically, people who want to employ a creative toolkit to help keep the public informed on COVID-19. People who like growing products: looking to work with people who get excited by ways to grow to 1M\+ users, build growth through word of mouth, and find novel ways to share a free, helpful resource with a lot of people.
+
+
+=== COVID Watch
+
+*Team Lead:* Sydney Von Arx
+
+*Team Contact:* [sydv@stanford.edu sydv@stanford.edu]
+
+*Current Team:* Michelle Xie
+
+*Description:* Check out the [https://www.covid-watch.org/ website]. Building a mobile app to collect crowdsourced data on COVID-19 spread; creating a nonprofit app to alert users if they've recently been exposed to another app user who was diagnosed with COVID-19. The app wil also crowdosurce data to help us create better models and maps of the virus's spread.
+
+*Looking for:* 
+- Mobile developers, esp.with experience with Blutooth
+- UI/UX designers
+- Security experts
+- Web developers
+- Lawyers
+
+
+=== NJPAHelpingHands.com
+
+*Team Lead:* Kyle D'Souza
+
+*Team Contact:* [kvdsouza@stanford.edu kvdsouza@stanford.edu]
+
+*Current Team:* Meghana Rao, Arjun Kunnasagaran
+
+*Description:* Check out the [https://www.njpahelpinghands.com/ website].
+
+*Looking for:* Mutual aid site for New Jersey\/Pennsylvania area.
+
+
+== Help Your Locals \/ SMEs
+*Channel Moderator:* [dreyese@stanford.edu Daniel Reyes]
+
+=== FinTech: Bridging the Gap for Financially Underserved Communities
+
+*Team Lead:* Gaurab Bose
+
+*Team Contact:* [gbose@stanford.edu gbose@stanford.edu]
+
+*Current Team:* Cassandra Saucedo, Benjamin White, Jeff Butler, Andres Benavides, Rachel Grau, Ali Kight, Nick Stead, Stella Liu, Mithat Can Ulubay, Stephanie Bader, Udit Pillay, Annie Wang
+
+*Description:* Enabling affected groups to effectivelz get information on and access funding sources.
+
+*Looking for:* 1 web developer and 1 UI/UX designer. It would be great to have them by early next week as we plan to run a mini-sprint that requires some rapid prototyping.
+
+
+== Digital Socializing
+*Channel Moderator:* [juromero@stanford.edu Juli Romero]
+
+=== Democratization of mental health care access
+
+*Team Lead:* Kasey Luo
+
+*Team Contact:* [kaseyluo@stanford.edu kaseyluo@stanford.edu]
+
+*Current Team:* \[our core team is at capacity\] Mika Isayama, Jamie Balsillie, Monica Kwamboka, Mahad Walusimbi 
+
+*Description:* Platform that connects individuals to clinical psych students for mental tele-health care at a lower cost than seeing a therapist.
+
+*Looking for:* 
+- Leads on funding opportunities, 
+- connections to therapists, psychologists, clinicians in-training, peer counselors, and
+- connections to communities negatively impacted by COVID-19: recently unemployed, socially isolated, familial loss, those experience anxiety/depression.
+
+
+=== Platform for physical activity
+
+*Team Lead:* Oseas Ayerdi
+
+*Team Contact:* [oseas@stanford.edu oseas@stanford.edu]
+
+*Current Team:* Helen He
+
+*Description:* A web-based help platform for quality, at-home physical activity.
+
+*Looking for:* i) back-end developer, ii) graphic designer, iii) digital marketing, specifically FB Marketing API
+
+
+=== Virtual Companion
+
+*Team Lead:* Gaby Li
+
+*Team Contact:* [gabyli@stanford.edu gabyli@stanford.edu]
+
+*Current Team:* Liang Ping Koh, Pranav Patil, Shreya Ravi
+
+*Description:* Virtual music concerts\/phone and video chat check-ins for elders.
+
+*Looking for:* graphic designer, web developer
+
+
+=== Pandemic Pulse Podcast
+
+*Team Lead:* Catherine Gu
+
+*Team Contact:* [wcgu@stanford.edu wcgu@stanford.edu]
+
+*Current Team:* Nikki Teran, Nikki Perez, Jennifer John, Vandon Duong
+
+*Description:* Weekly podcast that breaks down current COVID-related issues for Stanford (\+ potentially external) student community.
+
+*Looking for:* A web designer, maintaining content each week \+ put it on Apple podcast and potentially the Daily; additionally may expect managing mailing list \+ editing interview \/ recordings.
+
