@@ -28,7 +28,6 @@ head, body {
     text-align: center;
 }
 .header{
-    padding-top: 20px;
     overflow: auto;
 }
 .header ul{
