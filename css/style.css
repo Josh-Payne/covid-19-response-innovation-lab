@@ -60,7 +60,7 @@ head, body {
     background: linear-gradient(
         rgba(0, 0, 0, 0.8), 
         rgba(0, 0, 0, 0.8)
-      ), url(https://storage.googleapis.com/www.responseinnovation.org/bd1.png);
+      ), url(https://storage.googleapis.com/www.responseinnovation.org/bg3.png);
     background-position: center;
     background-size: cover;
 }
@@ -268,7 +268,7 @@ form{
         padding-bottom:20px;
     }
     .section1 {
-        padding:100px 30px;
+        padding:65px 30px;
     }
     .section1 p{
         font-size:17px;
